@@ -13,7 +13,7 @@
   "dependencies": {
     "connect-multiparty": "^2.2.0",
     "csvtojson": "^2.0.10",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "json2csv": "^4.5.4"
   },
   "devDependencies": {
